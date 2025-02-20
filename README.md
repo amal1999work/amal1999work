@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Amal R L
+# 👋 Hi , I'm Amal R L
 
 Welcome to my GitHub profile. I'm a highly motivated Software Developer with expertise in MERN Stack development, including React, Node.js, MongoDB, and Express. Passionate about building scalable web and mobile applications while continuously learning new technologies.. 🚀
 
